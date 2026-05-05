@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Datna/mlflow-deploy/mlruns/models/m-49b74b7d7bf543d9b3e73041a870ca54/artifacts
+creation_timestamp: 1777952974645
+experiment_id: '689406883146957129'
+last_updated_timestamp: 1777952981556
+model_id: m-49b74b7d7bf543d9b3e73041a870ca54
+model_type: null
+name: model
+source_run_id: 1bec4fd45aa54f2dbac3db74ed3dd61e
+status: 2
+status_message: null
