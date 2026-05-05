@@ -1,8 +1,0 @@
-artifact_location: file:///C:/Users/Datna/mlflow-deploy/mlruns
-creation_time: 1777952974278
-experiment_id: '689406883146957129'
-last_update_time: 1777952974278
-lifecycle_stage: active
-name: CI-CD-Lab2
-trace_location: null
-workspace: default
